@@ -1,4 +1,4 @@
-# Orchestrator
+# Copy RAG Microsoft - Orchestrator
 
 In this project if a copy for api basaded in the orchestrator of RAG Microsoft.
 Repository: https://github.com/Azure/gpt-rag-orchestrator
